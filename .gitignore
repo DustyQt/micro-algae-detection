@@ -18,10 +18,18 @@ submission/
 cfg/
 darknet
 .fuse*
-
+generatorData/
+generatedData/labels
+generatedData/images
+generatedData/train.txt
+generatedData/test.txt
+.ipynb_checkpoints
 # OS Generated #
 .DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+
+yolo-v3-custom_final.weights
